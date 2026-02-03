@@ -1,32 +1,32 @@
-Mac_OS
+# Mac_OS
 
-A macOS-inspired desktop environment built for the browser using React and Vite.
+A macOS-inspired desktop environment built for the browser using React and Vite.  
 This project recreates the macOS user experience with draggable and resizable windows, a desktop layout system, and modular UI components.
 
-Overview
+---
+
+## Overview
 
 This application simulates a desktop operating system interface inside the browser. It focuses on window management, layout behavior, and macOS-style visual design while maintaining a clean and scalable React architecture.
 
-Features
+---
 
-Draggable windows
+## Features
 
-Resizable window panels
+- Draggable windows
+- Resizable window panels
+- Desktop layout system
+- macOS-style UI and interactions
+- Component-based architecture
+- Fast development setup with Vite
 
-Desktop layout system
+---
 
-macOS-style UI and interactions
+## Tech Stack
 
-Component-based architecture
+- React
+- Vite
+- JavaScript
+- SCSS
 
-Fast development setup with Vite
-
-Tech Stack
-
-React
-
-Vite
-
-JavaScript
-
-SCSS
+---
