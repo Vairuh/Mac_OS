@@ -1,6 +1,6 @@
 import React from "react";
 import Macwindow from "./Macwindow";
-import "./resume.scss"
+import "./Resume.scss"
 
 const Resume = ({windowname, setwindowstate}) => {
     return (
